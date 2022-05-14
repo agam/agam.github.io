@@ -6,37 +6,29 @@
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "url": "https://roamresearch.com/#/app/Homepage-Agam/page/Qw3Cv9aOP",
+      "text": "Roam Home",
+      "img":"https://preview.redd.it/ctvemkioy7741.png",
+      "altText": "Roam home page"
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
+      "url": "https://agam.micro.blog",
+      "text": "Micro blog",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    },
+    {
+      "url": "https://abacusnoir.com",
+      "text": "Wordpress",
+      "img": "https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg",
+      "altText": "Wordpress blog"
     }
   ],
   "social": {
     "github": "https://github.com/agam",
-    "sourcehut": "",
-    "gitlab": "",
-    "hashnode": "",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
-    "medium": "",
-    "patreon": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "twitch": "",
-    "tiktok": "",
-    "podcast": "",
-    "soundcloud": "",
-    "bandcamp": "",
-    "mastodon": "",
-    "stackoverflow": "",
-    "kofi": "",
-    "email": "support@glitch.com"
+    "sourcehut": "https://sr.ht/~agam/",
+    "linkedin": "https://www.linkedin.com/in/agam-brahma/",
+    "twitter": "https://twitter.com/agambrahma",
+    "reddit": "https://www.reddit.com/user/agambrahma",
+    "email": "agam@hey.com"
   }
 }
