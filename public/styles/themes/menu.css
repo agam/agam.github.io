@@ -11,8 +11,7 @@ Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
 }
 body {
   background-image: url("https://cdn.glitch.global/63c458f2-a2d8-4c05-ae02-3b2a0ed6275e/pexels-gabriela-palai-395196.jpg?v=1652600181363");
-  //background-size: 600px 400px;
-  
+  background-size: cover;
 }
 
 ul.link-list li a {
